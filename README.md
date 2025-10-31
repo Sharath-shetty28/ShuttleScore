@@ -50,13 +50,15 @@ It replaces traditional manual methods with a **smart, efficient, and user-frien
 ## 📂 Project Structure
 
 ShuttleScore/
+
+```
 ├── app/
 │ ├── java/com/example/shuttlescore/ # Source code (Activities, Adapters, Models)
 │ ├── res/ # Layouts, Drawables, Values
 │ └── AndroidManifest.xml
 ├── build.gradle.kts # Kotlin-based Gradle build script
 └── README.md # Project Documentation
-
+```
 
 
 ---
@@ -71,6 +73,9 @@ To design a **digital-first badminton scoring system** that ensures:
 ---
 
 ## 📸 Screenshots
+
+<img src="https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c" alt="ShuttleScore Screenshot" width="400"/>
+
 
 ![1](https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c)
 ![2](https://github.com/user-attachments/assets/41eb97e0-4418-4afd-ad25-82d08c3cbfda)
