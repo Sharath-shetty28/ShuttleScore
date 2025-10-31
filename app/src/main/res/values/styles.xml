@@ -1,0 +1,6 @@
+<resources>
+    <!-- Inherits from the Material 3 RadioButton style -->
+    <style name="MyRadioButton" parent="Widget.Material3.CompoundButton.RadioButton">
+        <item name="buttonTint">@color/radio_button_tint</item>
+    </style>
+</resources>

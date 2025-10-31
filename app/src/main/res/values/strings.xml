@@ -1,0 +1,46 @@
+<resources>
+<!--    <string name="app_name">Badminton Rules</string>-->
+    <string name="app_name">ShuttleScore</string>
+    <string name="add_player">Add Player</string>
+    <string-array name="scoring_formats">
+        <item>3x21</item>
+        <item>1x21</item>
+    </string-array>
+    <string name="player_name">Player Name</string>
+    <string name="enter_player_name">Enter player\'s name</string>
+    <string name="team_name">Team Name</string>
+    <string name="enter_team_name">Enter team name</string>
+    <string name="gender">Gender</string>
+    <string name="male">Male</string>
+    <string name="female">Female</string>
+    <string name="save">Save</string>
+    <string name="back_button_description">Back</string>
+    <string name="app_logo_description">App Logo</string>
+    <string name="back_button_desc">Back</string>
+    <string name="match_results_title">Match Results</string>
+    <string name="winner_label">WINNER</string>
+    <string name="score_breakdown_label">Score Breakdown</string>
+    <string name="save_button_text">Save and Finish</string>
+
+    <!-- Content structured with @@ markers for Yellow Section Headers
+         and || markers to separate Rule Title from Rule Description for card creation. -->
+    <string name="badminton_rules_content"><![CDATA[
+        @@General
+        \n\nMatch Format||A match consists of the best of three games, unless otherwise arranged.
+        \n\nWinning a Game||Awarded by the first player or pair to reach 21 points.
+        \n\n30-Point Cap||If the score becomes 29-all, the player or pair scoring the 30th point wins the game.
+        \n\nServing First||The player or pair winning a game serves first in the next game.
+        \n\n@@Scoring
+        \n\nScoring a Point||Awarded when a side scores a point by hitting the shuttlecock over the net.
+        \n\nInterval at 11 Points||When the leading score reaches 11 points, players have a 60-second interval.
+        \n\nInterval Between Games||A two-minute interval between the second and third games is allowed.
+        \n\n@@Serving
+        \n\nService Courts||Players shall stand within diagonally opposite service courts.
+        \n\nNo Feinting||The server and receiver shall not feint before the service commences.
+        \n\nService Height||The shuttlecock shall be hit below the server\'s waist.
+        \n\n@@Faults
+        \n\nOut of Bounds||If the shuttlecock falls outside the boundaries of the court.
+        \n\nNet Fault||If the shuttlecock passes through or under the net.
+        \n\nTouching the Net||If a player touches the net or its supports with racket or body.
+    ]]></string>
+</resources>
