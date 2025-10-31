@@ -74,21 +74,17 @@ To design a **digital-first badminton scoring system** that ensures:
 
 ## 📸 Screenshots
 
-<img src="https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c" alt="ShuttleScore Screenshot" width="400"/>
-
-
-![1](https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c)
-![2](https://github.com/user-attachments/assets/41eb97e0-4418-4afd-ad25-82d08c3cbfda)
-![3](https://github.com/user-attachments/assets/f30ce6bb-cccf-4c8f-b137-5849e1af9f23)
-![4](https://github.com/user-attachments/assets/af32ff85-e16e-4089-b8cb-bc69a3829ee6)
-![5](https://github.com/user-attachments/assets/6f7521ca-2878-4b96-82c8-bcca537ecd64)
-![6](https://github.com/user-attachments/assets/1d74ea57-9146-4a7b-a907-5efc040ff737)
-![7](https://github.com/user-attachments/assets/2b4f23a2-a365-4872-9fc4-0a76aa6c6b8f)
-![8](https://github.com/user-attachments/assets/94669b52-544f-478c-904c-9bc4a33ec5e6)
-![9](https://github.com/user-attachments/assets/fda7cfa7-a1e3-4051-bf4a-57a3252e18f5)
-
-
-
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c" alt="ShuttleScore Screenshot 1" width="350" />
+  <img src="https://github.com/user-attachments/assets/41eb97e0-4418-4afd-ad25-82d08c3cbfda" alt="ShuttleScore Screenshot 2" width="350" />
+  <img src="https://github.com/user-attachments/assets/f30ce6bb-cccf-4c8f-b137-5849e1af9f23" alt="ShuttleScore Screenshot 3" width="350" />
+  <img src="https://github.com/user-attachments/assets/af32ff85-e16e-4089-b8cb-bc69a3829ee6" alt="ShuttleScore Screenshot 4" width="350" />
+  <img src="https://github.com/user-attachments/assets/6f7521ca-2878-4b96-82c8-bcca537ecd64" alt="ShuttleScore Screenshot 5" width="350" />
+  <img src="https://github.com/user-attachments/assets/1d74ea57-9146-4a7b-a907-5efc040ff737" alt="ShuttleScore Screenshot 6" width="350" />
+  <img src="https://github.com/user-attachments/assets/2b4f23a2-a365-4872-9fc4-0a76aa6c6b8f" alt="ShuttleScore Screenshot 7" width="350" />
+  <img src="https://github.com/user-attachments/assets/94669b52-544f-478c-904c-9bc4a33ec5e6" alt="ShuttleScore Screenshot 8" width="350" />
+  <img src="https://github.com/user-attachments/assets/fda7cfa7-a1e3-4051-bf4a-57a3252e18f5" alt="ShuttleScore Screenshot 9" width="350" />
+</p>
 
 # 💡 Future Enhancements
 - Cloud sync with Firebase
