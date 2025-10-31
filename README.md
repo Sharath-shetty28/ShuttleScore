@@ -75,7 +75,7 @@ To design a **digital-first badminton scoring system** that ensures:
 ## 📸 Screenshots
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c" alt="ShuttleScore Screenshot 1" width="350" height="100" />
+  <img src="https://github.com/user-attachments/assets/3b3b2016-0214-48ce-a46e-da257c1ca65c" alt="ShuttleScore Screenshot 1" width="250" height="250" />
   <img src="https://github.com/user-attachments/assets/41eb97e0-4418-4afd-ad25-82d08c3cbfda" alt="ShuttleScore Screenshot 2" width="350" />
   <img src="https://github.com/user-attachments/assets/f30ce6bb-cccf-4c8f-b137-5849e1af9f23" alt="ShuttleScore Screenshot 3" width="350" />
   <img src="https://github.com/user-attachments/assets/af32ff85-e16e-4089-b8cb-bc69a3829ee6" alt="ShuttleScore Screenshot 4" width="350" />
